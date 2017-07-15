@@ -1,2 +1,1 @@
-tim for asdasd asdasdasdaddadasdsadasdasdasdsaddsdasd# pretec-website
-Website for pretec
+//This repository is a repository for an experimental website as i continue to learn how to program.
