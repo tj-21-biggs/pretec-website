@@ -1,1 +1,1 @@
-//This repository is a repository for an experimental website as i continue to learn how to program.
+//This repository is a repository for an experimental website as I continue to learn how to program.
