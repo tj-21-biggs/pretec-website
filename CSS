@@ -1,0 +1,39 @@
+* {
+  border: 1px solid black;
+}
+
+.header {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+}
+
+.info {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+}
+
+.logo {
+  text-align: center;
+  max-width:
+}
+
+.navigation {
+  display: inline-block;
+  width: 80%;
+  text-align: center;
+}
+
+#left_header {
+  text-align: left;
+}
+
+#right_header {
+  text-align: right;
+}
+
+.left_box {
+  float: left;
+  position:
+}
