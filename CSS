@@ -1,5 +1,5 @@
 *  {
-background-color: rgb(33, 37, 43);
+
 color: rgb(165, 172, 186);
 
 
@@ -7,7 +7,7 @@ color: rgb(165, 172, 186);
 
 .top  {
   text-align: center;
-  background-color: rgb(33, 37, 43);
+
 }
 
 .logo {
@@ -17,13 +17,13 @@ color: rgb(165, 172, 186);
   clear: both;
   width: 100%;
   padding: 0px;
-  background-color: rgb(40, 44, 52);
+
 }
 
 .info {
   display: inline-block;
   width: 100%;
-  border: 1px solid black;
+  border: 1px solid orange;
 }
 
 .left_header {
@@ -31,7 +31,7 @@ color: rgb(165, 172, 186);
   text-align: left;
   margin: 0px;
   padding: 0px;
-  border: 1px solid black;
+  border: 1px solid Orange;
 
 }
 
@@ -40,7 +40,7 @@ color: rgb(165, 172, 186);
   text-align: right;
   margin: 0px;
   padding: 0px;
-  border: 1px solid black;
+  border: 1px solid orange;
 }
 
 #logo_text {
@@ -69,12 +69,13 @@ ul {
 }
 
 #nav_list {
- border: 1px solid black;
+ border: 1px solid orange;
+ border-top: 0px;
  background-color: rgb(57, 63, 74);
 }
 
 .side_bar {
-  border: 1px solid black;
+  border: 1px solid orange;
   float: left;
   margin-top: 200px;
 }
